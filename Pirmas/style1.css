@@ -1,0 +1,24 @@
+body{
+  background-color: #ffccb3;
+}
+h1{
+  background-color:#ff8080;
+  text-align: center;
+}
+img.nuot{
+  height: 300px;
+}
+p{
+  font-size: 35px;
+}
+p.nuom{
+  color: MediumSeaGreen;
+  font-style: italic;
+  font-size: 20px;
+}
+#vardas{
+  font-style: italic;
+  font-size: 25px;
+  text-align: right;
+  color: grey;
+}
